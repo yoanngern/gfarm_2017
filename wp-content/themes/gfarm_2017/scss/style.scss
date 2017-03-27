@@ -9,10 +9,17 @@
 @import "advanced/elementor";
 
 body {
-    font-family: $avenir;
+    font-family: $akrobat-med;
     -webkit-font-smoothing: antialiased;
     margin: 0;
     padding: 0;
     color: $black;
     background-color: $white;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: $geared-blk;
+    margin: 0;
+    padding: 0;
+    color: $black;
 }

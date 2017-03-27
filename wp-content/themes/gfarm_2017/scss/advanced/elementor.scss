@@ -1,150 +1,47 @@
-a.elementor-button {
-    background-color: $blue;
-    font-family: $dido-head;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-}
-
-#home_title h1.new {
-    text-align: center;
-    font-family: $avenir-blk;
-    color: $gold;
-    font-size: 41px;
-    letter-spacing: 0.18em;
-    text-transform: uppercase;
-    line-height: 1.4em;
-
-    span {
-        font-family: $dido-i;
-        letter-spacing: 0.1em;
-    }
-}
-
 .elementor-column-gap-default > .elementor-row > .elementor-column.full_width {
     div {
         padding: 0;
     }
 }
 
-
-#hot_news {
-    width: 100%;
-    background-color: $gold;
-    color: $white;
-    display: block;
-    text-align: center;
-    transition: all 300ms ease;
-
-    &:hover {
-        background-color: $gray;
-    }
-
-    h2 {
-        font-size: 2.2em;
-        font-family: $dido;
-        line-height: 2em;
-        padding-top: 30px;
-    }
-
-    h1 {
-        font-size: 2.2em;
-        font-family: $dido-bold;
-        line-height: 2.2em;
-        text-transform: uppercase;
-        padding-bottom: 30px;
-    }
-}
-
-@media only screen and (max-width: 767px) {
-
-
-    #home_title h1 {
-        text-align: center;
-        font-family: $avenir-blk;
-        color: $gold;
-        font-size: 18px;
-        letter-spacing: 0.18em;
-        text-transform: uppercase;
-
-        span {
-            font-family: $dido-i;
-            letter-spacing: 0.1em;
-        }
-    }
-
-}
-
-.avenir {
+.geared-blk {
     h1, h2, h3, h4, h5, h6, p, a {
-        font-family: $avenir !important;
+        font-family: $geared-blk !important;
     }
 }
 
-.avenir-i {
+.geared-thin {
     h1, h2, h3, h4, h5, h6, p, a {
-        font-family: $avenir-i !important;
+        font-family: $geared-thin !important;
     }
 }
 
-.avenir-med {
+.akrobat-med {
     h1, h2, h3, h4, h5, h6, p, a {
-        font-family: $avenir-med !important;
+        font-family: $akrobat-med !important;
     }
 }
 
-.avenir-med-i {
+.akrobat-bold {
     h1, h2, h3, h4, h5, h6, p, a {
-        font-family: $avenir-med-i !important;
+        font-family: $akrobat-bold !important;
     }
 }
 
-.avenir-blk {
+.akrobat-thin {
     h1, h2, h3, h4, h5, h6, p, a {
-        font-family: $avenir-blk !important;
+        font-family: $akrobat-thin !important;
     }
 }
 
-.avenir-blk-i {
+.akrobat-light {
     h1, h2, h3, h4, h5, h6, p, a {
-        font-family: $avenir-blk-i !important;
+        font-family: $akrobat-light !important;
     }
 }
 
-.dido {
+.akrobat-blk {
     h1, h2, h3, h4, h5, h6, p, a {
-
-        font-family: $dido !important;
+        font-family: $akrobat-blk !important;
     }
 }
-
-.dido-i {
-    h1, h2, h3, h4, h5, h6, p, a {
-        font-family: $dido-i !important;
-    }
-}
-
-.dido-orn {
-    h1, h2, h3, h4, h5, h6, p, a {
-        font-family: $dido-orn !important;
-    }
-}
-
-.dido-bold {
-    h1, h2, h3, h4, h5, h6, p, a {
-        font-family: $dido-bold !important;
-    }
-}
-
-.dido-bold-i {
-    h1, h2, h3, h4, h5, h6, p, a {
-        font-family: $dido-bold-i !important;
-    }
-}
-
-.dido-head {
-    h1, h2, h3, h4, h5, h6, p, a {
-        font-family: $dido-head !important;
-    }
-}
-
-

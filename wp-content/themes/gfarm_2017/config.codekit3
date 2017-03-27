@@ -303,6 +303,132 @@
 		"oAP": "\/fonts\/330FB7_B_0.woff2",
 		"oF": 0
 		},
+	"\/fonts\/akrobat-bold-demo.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/akrobat-bold-demo.html",
+		"oF": 0
+		},
+	"\/fonts\/akrobat-bold-webfont.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/akrobat-bold-webfont.woff",
+		"oF": 0
+		},
+	"\/fonts\/akrobat-bold-webfont.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/akrobat-bold-webfont.woff2",
+		"oF": 0
+		},
+	"\/fonts\/akrobat-extrabold-demo.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/akrobat-extrabold-demo.html",
+		"oF": 0
+		},
+	"\/fonts\/akrobat-extrabold-webfont.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/akrobat-extrabold-webfont.woff",
+		"oF": 0
+		},
+	"\/fonts\/akrobat-extrabold-webfont.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/akrobat-extrabold-webfont.woff2",
+		"oF": 0
+		},
+	"\/fonts\/akrobat-extralight-demo.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/akrobat-extralight-demo.html",
+		"oF": 0
+		},
+	"\/fonts\/akrobat-extralight-webfont.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/akrobat-extralight-webfont.woff",
+		"oF": 0
+		},
+	"\/fonts\/akrobat-extralight-webfont.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/akrobat-extralight-webfont.woff2",
+		"oF": 0
+		},
+	"\/fonts\/akrobat-semibold-demo.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/akrobat-semibold-demo.html",
+		"oF": 0
+		},
+	"\/fonts\/akrobat-semibold-webfont.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/akrobat-semibold-webfont.woff",
+		"oF": 0
+		},
+	"\/fonts\/akrobat-semibold-webfont.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/akrobat-semibold-webfont.woff2",
+		"oF": 0
+		},
+	"\/fonts\/akrobat-thin-demo.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/akrobat-thin-demo.html",
+		"oF": 0
+		},
+	"\/fonts\/akrobat-thin-webfont.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/akrobat-thin-webfont.woff",
+		"oF": 0
+		},
+	"\/fonts\/akrobat-thin-webfont.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/akrobat-thin-webfont.woff2",
+		"oF": 0
+		},
+	"\/fonts\/gearedslab-extrabold-demo.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/gearedslab-extrabold-demo.html",
+		"oF": 0
+		},
+	"\/fonts\/gearedslab-extrabold-webfont.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/gearedslab-extrabold-webfont.woff",
+		"oF": 0
+		},
+	"\/fonts\/gearedslab-extrabold-webfont.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/gearedslab-extrabold-webfont.woff2",
+		"oF": 0
+		},
+	"\/fonts\/gearedslab-light-demo.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/gearedslab-light-demo.html",
+		"oF": 0
+		},
+	"\/fonts\/gearedslab-light-webfont.woff": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/gearedslab-light-webfont.woff",
+		"oF": 0
+		},
+	"\/fonts\/gearedslab-light-webfont.woff2": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/fonts\/gearedslab-light-webfont.woff2",
+		"oF": 0
+		},
 	"\/footer.php": {
 		"ft": 8192,
 		"oA": 2,
@@ -3519,6 +3645,16 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"\/style-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/style-min-min.css",
+		"oF": 0,
+		"oS": 0
+		},
 	"\/style.css": {
 		"aP": 1,
 		"bl": 0,
@@ -4892,7 +5028,7 @@
 			}
 		},
 	"esLintSourceType": 0,
-	"externalServerAddress": "http:\/\/gospel-farm.ch",
+	"externalServerAddress": "http:\/\/dev.gospel-farm.ch",
 	"gitIgnoreBuildFolder": 1,
 	"hideConfigFile": 0,
 	"jsCheckerReservedNamesString": "",
