@@ -40,43 +40,43 @@ article, aside, footer, header, hgroup, nav, section, figure, figcaption {
 
 @font-face {
   font-family: 'geared_slabextrabold';
-  src: url("gearedslab-extrabold-webfont.woff2") format("woff2"), url("gearedslab-extrabold-webfont.woff") format("woff");
+  src: url("fonts/gearedslab-extrabold-webfont.woff2") format("woff2"), url("fonts/gearedslab-extrabold-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: 'geared_slabthin';
-  src: url("gearedslab-light-webfont.woff2") format("woff2"), url("gearedslab-light-webfont.woff") format("woff");
+  src: url("fonts/gearedslab-light-webfont.woff2") format("woff2"), url("fonts/gearedslab-light-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: 'akrobatbold';
-  src: url("akrobat-bold-webfont.woff2") format("woff2"), url("akrobat-bold-webfont.woff") format("woff");
+  src: url("fonts/akrobat-bold-webfont.woff2") format("woff2"), url("fonts/akrobat-bold-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: 'akrobatextrabold';
-  src: url("akrobat-extrabold-webfont.woff2") format("woff2"), url("akrobat-extrabold-webfont.woff") format("woff");
+  src: url("fonts/akrobat-extrabold-webfont.woff2") format("woff2"), url("fonts/akrobat-extrabold-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: 'akrobatextralight';
-  src: url("akrobat-extralight-webfont.woff2") format("woff2"), url("akrobat-extralight-webfont.woff") format("woff");
+  src: url("fonts/akrobat-extralight-webfont.woff2") format("woff2"), url("fonts/akrobat-extralight-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: 'akrobatsemibold';
-  src: url("akrobat-semibold-webfont.woff2") format("woff2"), url("akrobat-semibold-webfont.woff") format("woff");
+  src: url("fonts/akrobat-semibold-webfont.woff2") format("woff2"), url("fonts/akrobat-semibold-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: 'akrobatthin';
-  src: url("akrobat-thin-webfont.woff2") format("woff2"), url("akrobat-thin-webfont.woff") format("woff");
+  src: url("fonts/akrobat-thin-webfont.woff2") format("woff2"), url("fonts/akrobat-thin-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal; }
 
