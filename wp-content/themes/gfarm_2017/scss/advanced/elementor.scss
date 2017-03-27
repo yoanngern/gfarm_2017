@@ -1,0 +1,150 @@
+a.elementor-button {
+    background-color: $blue;
+    font-family: $dido-head;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+}
+
+#home_title h1.new {
+    text-align: center;
+    font-family: $avenir-blk;
+    color: $gold;
+    font-size: 41px;
+    letter-spacing: 0.18em;
+    text-transform: uppercase;
+    line-height: 1.4em;
+
+    span {
+        font-family: $dido-i;
+        letter-spacing: 0.1em;
+    }
+}
+
+.elementor-column-gap-default > .elementor-row > .elementor-column.full_width {
+    div {
+        padding: 0;
+    }
+}
+
+
+#hot_news {
+    width: 100%;
+    background-color: $gold;
+    color: $white;
+    display: block;
+    text-align: center;
+    transition: all 300ms ease;
+
+    &:hover {
+        background-color: $gray;
+    }
+
+    h2 {
+        font-size: 2.2em;
+        font-family: $dido;
+        line-height: 2em;
+        padding-top: 30px;
+    }
+
+    h1 {
+        font-size: 2.2em;
+        font-family: $dido-bold;
+        line-height: 2.2em;
+        text-transform: uppercase;
+        padding-bottom: 30px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+
+
+    #home_title h1 {
+        text-align: center;
+        font-family: $avenir-blk;
+        color: $gold;
+        font-size: 18px;
+        letter-spacing: 0.18em;
+        text-transform: uppercase;
+
+        span {
+            font-family: $dido-i;
+            letter-spacing: 0.1em;
+        }
+    }
+
+}
+
+.avenir {
+    h1, h2, h3, h4, h5, h6, p, a {
+        font-family: $avenir !important;
+    }
+}
+
+.avenir-i {
+    h1, h2, h3, h4, h5, h6, p, a {
+        font-family: $avenir-i !important;
+    }
+}
+
+.avenir-med {
+    h1, h2, h3, h4, h5, h6, p, a {
+        font-family: $avenir-med !important;
+    }
+}
+
+.avenir-med-i {
+    h1, h2, h3, h4, h5, h6, p, a {
+        font-family: $avenir-med-i !important;
+    }
+}
+
+.avenir-blk {
+    h1, h2, h3, h4, h5, h6, p, a {
+        font-family: $avenir-blk !important;
+    }
+}
+
+.avenir-blk-i {
+    h1, h2, h3, h4, h5, h6, p, a {
+        font-family: $avenir-blk-i !important;
+    }
+}
+
+.dido {
+    h1, h2, h3, h4, h5, h6, p, a {
+
+        font-family: $dido !important;
+    }
+}
+
+.dido-i {
+    h1, h2, h3, h4, h5, h6, p, a {
+        font-family: $dido-i !important;
+    }
+}
+
+.dido-orn {
+    h1, h2, h3, h4, h5, h6, p, a {
+        font-family: $dido-orn !important;
+    }
+}
+
+.dido-bold {
+    h1, h2, h3, h4, h5, h6, p, a {
+        font-family: $dido-bold !important;
+    }
+}
+
+.dido-bold-i {
+    h1, h2, h3, h4, h5, h6, p, a {
+        font-family: $dido-bold-i !important;
+    }
+}
+
+.dido-head {
+    h1, h2, h3, h4, h5, h6, p, a {
+        font-family: $dido-head !important;
+    }
+}
+
+

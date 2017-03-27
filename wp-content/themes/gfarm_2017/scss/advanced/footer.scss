@@ -1,0 +1,37 @@
+footer {
+    text-align: center;
+    background-color: $gray;
+    display: block;
+    position: relative;
+
+    #logo_footer {
+        display: inline-block;
+        width: 180px;
+        height: 120px;
+        position: relative;
+        background-image: url('images/logo_esbs_white.png');
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+        margin: 40px auto;
+    }
+
+    p {
+        color: darken($white, 30);
+        margin-bottom: 30px;
+        line-height: 1.6em;
+
+        em {
+            font-family: $avenir-blk;
+        }
+
+        a {
+            color: darken($white, 30);
+            text-decoration: none;
+
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+    }
+}

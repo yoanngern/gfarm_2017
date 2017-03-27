@@ -1,0 +1,110 @@
+# Elementor Pro - by Elementor.com
+
+#### 2017-03-21 v1.2.4
+* Tweak! - Added Indian Rupee sign to Price Table widget
+* Fix! - Portfolio grid for IE11
+* Fix! - Link target blank in Price List widget
+* Fix! - Active item for filter bar in Portfolio widget
+
+#### 2017-03-06 v1.2.3
+* Tweak! - Fully compatible with Elementor v1.3.0
+* Tweak! - Added trigger for after form submission in Forms widget
+* Tweak! - Changed handle name in reCapcha field to avoid conflict with other contact forms
+* Fix! - Portfolio filter syntax in Non-Latin languages
+* Fix! - Added `no-repeat` property for slide with `background-size:contain`
+* Fix! - Condition control & Import value in Posts widgets
+* Fix! - Offset and Pagination in WordPress ([More Info](https://codex.wordpress.org/Making_Custom_Queries_using_Offset_and_Pagination))
+* Fix! - Submit handler bubbling for custom events in Forms widget
+
+#### 2017-02-23 v1.2.2
+* Tweak! - Change name from Side A/B to Front and Back in Flip Box widget
+* Fix! - Error when saving third party widgets in the global widget
+* Fix! - Image position "none" remains visible in editor preview (Posts)
+* Fix! - Hide the pagination when there are no links
+
+#### 2017-02-21 v1.2.1
+* Fix! - Firefox Flip Box 3D compatibility
+
+#### 2017-02-21 v1.2.0
+* New! - Added Flip Box widget
+* New! - Added Ken Burns effect for slides
+* New! - Added Masonry layout for Posts widget
+* New! - Added Pagination option for Posts widget
+* Tweak! - Added background size contain to slides
+* Tweak! - Improve Query control by preload items
+* Fix! - Text color for Checkbox and Radio fields
+
+#### 2017-02-05 v1.1.2
+* Tweak! - Added `aria-required` for better accessibility in forms widget
+* Fix! - Conflict Call to `undefined` method in Posts & Portfolio widgets ([#1271](https://github.com/pojome/elementor/issues/1271), [#1266](https://github.com/pojome/elementor/issues/1266))
+* Fix! - Submit button HTML after error sending
+* Fix! - Success message for `skip_email` function
+* Notice! - Elementor 1.2.0 or later now required
+
+#### 2017-01-24 v1.1.1
+* Fix! - Can't save global widgets when `WP_DEBUG` is `true`
+* Fix! - Undefined variable in WC widgets
+* Fix! - Removed duplicate strings
+
+#### 2017-01-24 v1.1.0
+* New! - Price Table widget ([#102](https://github.com/pojome/elementor/issues/102))
+* New! - WooCommerce Add to Cart widget
+* New! - WooCommerce Categories widget
+* New! - WooCommerce Elements widget
+* New! - Honeypot field for Forms widgets
+* Tweak! - Added inline options for taxonomies & authors if is less than 15 items
+* Tweak! - Added Required Mark for fields in Forms widget
+* Fix! - CSS selectors priority in Slides widget
+* Fix! - CSS bug in Price List widget
+* Fix! - Update all Post CSS files that includes specific Global Widget
+
+#### 2017-01-18 v1.0.9
+* Fix! - Auto complete bug in query controls
+* Fix! - Render template with escaping slashes
+* Fix! - Reply-to field in Forms widget
+
+#### 2017-01-11 v1.0.8
+* Tweak! - Code adjustments for Elementor API
+* Fix! - Removed go pro link from plugins page in admin
+
+#### 2017-01-05 v1.0.7
+* Tweak! - Added filter by featured / sale for WC Products widget
+* Tweak! - Added author control in Portfolio widget
+* Tweak! - Code adjustments for Elementor API
+* Fix! - Added support for empty image ratio
+* Fix! - Avoid nesting a sidebar within a template that will appear in the sidebar itself
+
+#### 2017-01-01 v1.0.6
+* Tweak! - Added Auto-updates for local translation files
+* Fix! - Custom CSS for Global widgets
+* Fix! - Remove `nonce` field (Fix some cache plugins)
+
+#### 2016-12-27 v1.0.5
+* Fix! - Slide element bug fix - 'Link apply on' logic
+* Fix! - Removed unique wrapper for Custom CSS in order to allow media queries ([#1086](https://github.com/pojome/elementor/issues/1086))
+
+#### 2016-12-21 v1.0.4
+* Tweak! - Mobile Editing for fields in the form widget
+* Tweak! - Mobile Editing for posts
+* Tweak! - Allow send form as HTML
+* Tweak! - Improved auto upgrades for Multisite installation
+* Tweak! - Improve editor rendering experience for Portfolio widget
+* Fix! - Posts widget check if image exist 
+* Fix! - Changed the clone method for global widget ([#1042](https://github.com/pojome/elementor/issues/1042))
+* Fix! - Bug slides in RTL (removed direction control)
+* Fix! - Slides with no height jumps when changing slides
+
+#### 2016-12-13 v1.0.3
+* Fix! - Added escape placeholder for HTML Entities in form widget
+* Fix! - Countdown widget RTL bug
+* Fix! - Remove redundant #elementor selector for control style
+* Fix! - Added prefixing with '0' for one digit number in Countdown widget
+
+#### 2016-12-12 v1.0.2
+* Fix! - Page layout collapses when inserting reCAPTCHA field in Form
+
+#### 2016-12-12 v1.0.1
+* Fix! - WordPress widgets disappear from Editor when Elementor Pro active
+
+#### 2016-12-12 v1.0.0
+* Initial release

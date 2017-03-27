@@ -1,0 +1,121 @@
+@font-face {
+    font-family: 'AvenirLTStd-Book';
+    src: url('fonts/330FB7_0_0.eot');
+    src: url('fonts/330FB7_0_0.eot?#iefix') format('embedded-opentype'),
+    url('fonts/330FB7_0_0.woff2') format('woff2'),
+    url('fonts/330FB7_0_0.woff') format('woff'),
+    url('fonts/330FB7_0_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'AvenirLTStd-MediumOblique';
+    src: url('fonts/330FB7_1_0.eot');
+    src: url('fonts/330FB7_1_0.eot?#iefix') format('embedded-opentype'),
+    url('fonts/330FB7_1_0.woff2') format('woff2'),
+    url('fonts/330FB7_1_0.woff') format('woff'),
+    url('fonts/330FB7_1_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'AvenirLTStd-BookOblique';
+    src: url('fonts/330FB7_2_0.eot');
+    src: url('fonts/330FB7_2_0.eot?#iefix') format('embedded-opentype'),
+    url('fonts/330FB7_2_0.woff2') format('woff2'),
+    url('fonts/330FB7_2_0.woff') format('woff'),
+    url('fonts/330FB7_2_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'AvenirLTStd-Medium';
+    src: url('fonts/330FB7_3_0.eot');
+    src: url('fonts/330FB7_3_0.eot?#iefix') format('embedded-opentype'),
+    url('fonts/330FB7_3_0.woff2') format('woff2'),
+    url('fonts/330FB7_3_0.woff') format('woff'),
+    url('fonts/330FB7_3_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'AvenirLTStd-BlackOblique';
+    src: url('fonts/330FB7_4_0.eot');
+    src: url('fonts/330FB7_4_0.eot?#iefix') format('embedded-opentype'),
+    url('fonts/330FB7_4_0.woff2') format('woff2'),
+    url('fonts/330FB7_4_0.woff') format('woff'),
+    url('fonts/330FB7_4_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'AvenirLTStd-Black';
+    src: url('fonts/330FB7_5_0.eot');
+    src: url('fonts/330FB7_5_0.eot?#iefix') format('embedded-opentype'),
+    url('fonts/330FB7_5_0.woff2') format('woff2'),
+    url('fonts/330FB7_5_0.woff') format('woff'),
+    url('fonts/330FB7_5_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DidotLTStd-Italic';
+    src: url('fonts/330FB7_6_0.eot');
+    src: url('fonts/330FB7_6_0.eot?#iefix') format('embedded-opentype'),
+    url('fonts/330FB7_6_0.woff2') format('woff2'),
+    url('fonts/330FB7_6_0.woff') format('woff'),
+    url('fonts/330FB7_6_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DidotLTStd-Ornaments';
+    src: url('fonts/330FB7_7_0.eot');
+    src: url('fonts/330FB7_7_0.eot?#iefix') format('embedded-opentype'),
+    url('fonts/330FB7_7_0.woff2') format('woff2'),
+    url('fonts/330FB7_7_0.woff') format('woff'),
+    url('fonts/330FB7_7_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DidotLTStd-Roman';
+    src: url('fonts/330FB7_8_0.eot');
+    src: url('fonts/330FB7_8_0.eot?#iefix') format('embedded-opentype'),
+    url('fonts/330FB7_8_0.woff2') format('woff2'),
+    url('fonts/330FB7_8_0.woff') format('woff'),
+    url('fonts/330FB7_8_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DidotLTStd-BoldItalic';
+    src: url('fonts/330FB7_9_0.eot');
+    src: url('fonts/330FB7_9_0.eot?#iefix') format('embedded-opentype'),
+    url('fonts/330FB7_9_0.woff2') format('woff2'),
+    url('fonts/330FB7_9_0.woff') format('woff'),
+    url('fonts/330FB7_9_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DidotLTStd-Bold';
+    src: url('fonts/330FB7_A_0.eot');
+    src: url('fonts/330FB7_A_0.eot?#iefix') format('embedded-opentype'),
+    url('fonts/330FB7_A_0.woff2') format('woff2'),
+    url('fonts/330FB7_A_0.woff') format('woff'),
+    url('fonts/330FB7_A_0.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'DidotLTStd-Headline';
+    src: url('fonts/330FB7_B_0.eot');
+    src: url('fonts/330FB7_B_0.eot?#iefix') format('embedded-opentype'),
+    url('fonts/330FB7_B_0.woff2') format('woff2'),
+    url('fonts/330FB7_B_0.woff') format('woff'),
+    url('fonts/330FB7_B_0.ttf') format('truetype');
+}
+
+$avenir: "AvenirLTStd-Book", Arial, Helvetica, Verdana, sans-serif;
+$avenir-i: "AvenirLTStd-BookOblique", $avenir;
+$avenir-med: "AvenirLTStd-Medium", $avenir;
+$avenir-med-i: "AvenirLTStd-MediumOblique", $avenir-med;
+$avenir-blk: "AvenirLTStd-Black", $avenir-med;
+$avenir-blk-i: "AvenirLTStd-BlackOblique", $avenir-blk;
+
+$dido: "DidotLTStd-Roman", times, serif;
+$dido-i: "DidotLTStd-Italic", $dido;
+$dido-orn: "DidotLTStd-Ornaments", $dido;
+$dido-bold: "DidotLTStd-Bold", $dido;
+$dido-bold-i: "DidotLTStd-BoldItalic", $dido-bold;
+$dido-head: "DidotLTStd-Headline", $dido;
