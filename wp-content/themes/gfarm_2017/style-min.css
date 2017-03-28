@@ -97,7 +97,7 @@ article, aside, footer, header, hgroup, nav, section, figure, figcaption {
   text-align: center; }
 
 @media only screen and (min-height: 900px) {
-  .elementor-section.first-section {
+  .elementor-section.elementor-section-height-full.first-section {
     height: 80vh; } }
 
 .geared-blk h1, .geared-blk h2, .geared-blk h3, .geared-blk h4, .geared-blk h5, .geared-blk h6, .geared-blk p, .geared-blk a {
