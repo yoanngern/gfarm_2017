@@ -26,8 +26,11 @@
     }
 }
 
-.first-section {
-    max-height: 800px;
+.elementor-section.first-section {
+
+    @media only screen and (min-height: 900px) {
+        height: 80vh;
+    }
 }
 
 .geared-blk {
