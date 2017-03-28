@@ -90,6 +90,12 @@ article, aside, footer, header, hgroup, nav, section, figure, figcaption {
   padding: 5px 0 15px 0;
   letter-spacing: 0.015em; }
 
+#gw_link {
+  display: block;
+  height: 50px;
+  width: 100%;
+  margin-top: 60px; }
+
 .justify .elementor-text-editor p {
   text-align: justify; }
 
