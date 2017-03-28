@@ -161,7 +161,7 @@
 		},
 	"\/images\/android-icon-144x144.png": {
 		"ft": 32768,
-		"iS": 4841,
+		"iS": 4643,
 		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/android-icon-144x144.png",
@@ -171,7 +171,7 @@
 		},
 	"\/images\/android-icon-192x192.png": {
 		"ft": 32768,
-		"iS": 10264,
+		"iS": 5223,
 		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/android-icon-192x192.png",
@@ -181,7 +181,7 @@
 		},
 	"\/images\/android-icon-36x36.png": {
 		"ft": 32768,
-		"iS": 1782,
+		"iS": 1368,
 		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/android-icon-36x36.png",
@@ -191,7 +191,7 @@
 		},
 	"\/images\/android-icon-48x48.png": {
 		"ft": 32768,
-		"iS": 1828,
+		"iS": 1690,
 		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/android-icon-48x48.png",
@@ -201,7 +201,7 @@
 		},
 	"\/images\/android-icon-72x72.png": {
 		"ft": 32768,
-		"iS": 3203,
+		"iS": 2322,
 		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/android-icon-72x72.png",
@@ -211,7 +211,7 @@
 		},
 	"\/images\/android-icon-96x96.png": {
 		"ft": 32768,
-		"iS": 3699,
+		"iS": 3071,
 		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/android-icon-96x96.png",
@@ -221,7 +221,7 @@
 		},
 	"\/images\/apple-icon-114x114.png": {
 		"ft": 32768,
-		"iS": 4499,
+		"iS": 2485,
 		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/apple-icon-114x114.png",
@@ -229,9 +229,49 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/images\/apple-icon-120x120.png": {
+		"ft": 32768,
+		"iS": 2577,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/images\/apple-icon-120x120.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/apple-icon-144x144.png": {
+		"ft": 32768,
+		"iS": 3094,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/images\/apple-icon-144x144.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/apple-icon-152x152.png": {
+		"ft": 32768,
+		"iS": 3238,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/images\/apple-icon-152x152.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/apple-icon-180x180.png": {
+		"ft": 32768,
+		"iS": 5270,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/images\/apple-icon-180x180.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/images\/apple-icon-57x57.png": {
 		"ft": 32768,
-		"iS": 1619,
+		"iS": 1597,
 		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/apple-icon-57x57.png",
@@ -241,7 +281,7 @@
 		},
 	"\/images\/apple-icon-60x60.png": {
 		"ft": 32768,
-		"iS": 2545,
+		"iS": 1624,
 		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/apple-icon-60x60.png",
@@ -251,7 +291,7 @@
 		},
 	"\/images\/apple-icon-72x72.png": {
 		"ft": 32768,
-		"iS": 2773,
+		"iS": 1804,
 		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/apple-icon-72x72.png",
@@ -261,7 +301,7 @@
 		},
 	"\/images\/apple-icon-76x76.png": {
 		"ft": 32768,
-		"iS": 2765,
+		"iS": 1861,
 		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/apple-icon-76x76.png",
@@ -269,75 +309,25 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/images\/arc.png": {
+	"\/images\/apple-icon-precomposed.png": {
 		"ft": 32768,
-		"iS": 337178,
+		"iS": 3463,
 		"l": 1,
 		"oA": 0,
-		"oAP": "\/images\/arc.png",
-		"oF": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/images\/arrow_down.png": {
-		"ft": 32768,
-		"iS": 382,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/images\/arrow_down.png",
+		"oAP": "\/images\/apple-icon-precomposed.png",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/images\/arrow_down_blk.png": {
+	"\/images\/apple-icon.png": {
 		"ft": 32768,
-		"iS": 430,
+		"iS": 3463,
 		"l": 1,
 		"oA": 0,
-		"oAP": "\/images\/arrow_down_blk.png",
+		"oAP": "\/images\/apple-icon.png",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
-		},
-	"\/images\/arrow_up.png": {
-		"ft": 32768,
-		"iS": 382,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/images\/arrow_up.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/arrow_up_blk.png": {
-		"ft": 32768,
-		"iS": 450,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/images\/arrow_up_blk.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/arrowLeft.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/images\/arrowLeft.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"\/images\/arrowRight.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "\/images\/arrowRight.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
 		},
 	"\/images\/browserconfig.xml": {
 		"ft": 8192,
@@ -345,59 +335,9 @@
 		"oAP": "\/images\/browserconfig.xml",
 		"oF": 0
 		},
-	"\/images\/burger.png": {
-		"ft": 32768,
-		"iS": 132,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/images\/burger.png",
-		"oF": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/images\/burger_close.png": {
-		"ft": 32768,
-		"iS": 776,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/images\/burger_close.png",
-		"oF": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/images\/burger_white.png": {
-		"ft": 32768,
-		"iS": 144,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/images\/burger_white.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/close_blue.png": {
-		"ft": 32768,
-		"iS": 741,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/images\/close_blue.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/facebook_default_home.png": {
-		"ft": 32768,
-		"iS": 1019659,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/images\/facebook_default_home.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/images\/favicon-16x16.png": {
 		"ft": 32768,
-		"iS": 1359,
+		"iS": 1027,
 		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/favicon-16x16.png",
@@ -407,7 +347,7 @@
 		},
 	"\/images\/favicon-32x32.png": {
 		"ft": 32768,
-		"iS": 1784,
+		"iS": 1357,
 		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/favicon-32x32.png",
@@ -417,7 +357,7 @@
 		},
 	"\/images\/favicon-96x96.png": {
 		"ft": 32768,
-		"iS": 3699,
+		"iS": 3071,
 		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/favicon-96x96.png",
@@ -431,115 +371,6 @@
 		"oAP": "\/images\/favicon.ico",
 		"oF": 0
 		},
-	"\/images\/header_red.jpg": {
-		"ft": 16384,
-		"iS": 130004,
-		"oA": 0,
-		"oAP": "\/images\/header_red.jpg",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/header_title_aimg.png": {
-		"ft": 32768,
-		"iS": 69439,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/images\/header_title_aimg.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/left.png": {
-		"ft": 32768,
-		"iS": 1398,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/images\/left.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/live_aimg_logo.png": {
-		"ft": 32768,
-		"iS": 33451,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/images\/live_aimg_logo.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/logo_aimg.png": {
-		"ft": 32768,
-		"iS": 33451,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/images\/logo_aimg.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/logo_esbs_white.png": {
-		"ft": 32768,
-		"iS": 7395,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/images\/logo_esbs_white.png",
-		"oF": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/images\/logo_gw.png": {
-		"ft": 32768,
-		"iS": 9258,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/images\/logo_gw.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/logo_gw_gray.png": {
-		"ft": 32768,
-		"iS": 17438,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/images\/logo_gw_gray.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/logo_gw_white.png": {
-		"ft": 32768,
-		"iS": 11418,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/images\/logo_gw_white.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/logo_iahm.png": {
-		"ft": 32768,
-		"iS": 29889,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/images\/logo_iahm.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/logo_simple.png": {
-		"ft": 32768,
-		"iS": 3621,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/images\/logo_simple.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/images\/manifest.json": {
 		"ft": 524288,
 		"oA": 1,
@@ -550,7 +381,7 @@
 		},
 	"\/images\/ms-icon-144x144.png": {
 		"ft": 32768,
-		"iS": 9389,
+		"iS": 4643,
 		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/ms-icon-144x144.png",
@@ -560,7 +391,7 @@
 		},
 	"\/images\/ms-icon-150x150.png": {
 		"ft": 32768,
-		"iS": 9851,
+		"iS": 4890,
 		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/ms-icon-150x150.png",
@@ -570,7 +401,7 @@
 		},
 	"\/images\/ms-icon-310x310.png": {
 		"ft": 32768,
-		"iS": 24641,
+		"iS": 12506,
 		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/ms-icon-310x310.png",
@@ -580,30 +411,10 @@
 		},
 	"\/images\/ms-icon-70x70.png": {
 		"ft": 32768,
-		"iS": 3110,
+		"iS": 2270,
 		"l": 1,
 		"oA": 0,
 		"oAP": "\/images\/ms-icon-70x70.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/right.png": {
-		"ft": 32768,
-		"iS": 1294,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/images\/right.png",
-		"oF": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/search.png": {
-		"ft": 32768,
-		"iS": 851,
-		"l": 1,
-		"oA": 0,
-		"oAP": "\/images\/search.png",
 		"oF": 0,
 		"opt": 0,
 		"q": 100
@@ -2855,6 +2666,16 @@
 		"oA": 2,
 		"oAP": "\/page.php",
 		"oF": 0
+		},
+	"\/screenshot.png": {
+		"ft": 32768,
+		"iS": 700907,
+		"l": 1,
+		"oA": 0,
+		"oAP": "\/screenshot.png",
+		"oF": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"\/scss\/.sass-cache\/00dca98eae06ac6314d1ad7a2c04afa3b608a258\/_admin.scssc": {
 		"ft": 8192,
