@@ -12,17 +12,17 @@
         padding: 5px 0 15px 0;
         letter-spacing: 0.015em;
     }
+}
 
-    .justify {
-        p {
-            text-align: justify;
-        }
+.justify {
+    .elementor-text-editor p {
+        text-align: justify;
     }
+}
 
-    .center {
-        p {
-            text-align: center;
-        }
+.center {
+    .elementor-text-editor p {
+        text-align: center;
     }
 }
 

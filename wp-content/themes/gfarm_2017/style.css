@@ -90,10 +90,10 @@ article, aside, footer, header, hgroup, nav, section, figure, figcaption {
   padding: 5px 0 15px 0;
   letter-spacing: 0.015em; }
 
-.elementor-text-editor .justify p {
+.justify .elementor-text-editor p {
   text-align: justify; }
 
-.elementor-text-editor .center p {
+.center .elementor-text-editor p {
   text-align: center; }
 
 @media only screen and (min-height: 900px) {
