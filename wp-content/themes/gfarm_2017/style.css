@@ -40,48 +40,64 @@ article, aside, footer, header, hgroup, nav, section, figure, figcaption {
 
 @font-face {
   font-family: 'geared_slabextrabold';
-  src: url("gearedslab-extrabold-webfont.woff2") format("woff2"), url("gearedslab-extrabold-webfont.woff") format("woff");
+  src: url("fonts/gearedslab-extrabold-webfont.woff2") format("woff2"), url("fonts/gearedslab-extrabold-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: 'geared_slabthin';
-  src: url("gearedslab-light-webfont.woff2") format("woff2"), url("gearedslab-light-webfont.woff") format("woff");
+  src: url("fonts/gearedslab-light-webfont.woff2") format("woff2"), url("fonts/gearedslab-light-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: 'akrobatbold';
-  src: url("akrobat-bold-webfont.woff2") format("woff2"), url("akrobat-bold-webfont.woff") format("woff");
+  src: url("fonts/akrobat-bold-webfont.woff2") format("woff2"), url("fonts/akrobat-bold-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: 'akrobatextrabold';
-  src: url("akrobat-extrabold-webfont.woff2") format("woff2"), url("akrobat-extrabold-webfont.woff") format("woff");
+  src: url("fonts/akrobat-extrabold-webfont.woff2") format("woff2"), url("fonts/akrobat-extrabold-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: 'akrobatextralight';
-  src: url("akrobat-extralight-webfont.woff2") format("woff2"), url("akrobat-extralight-webfont.woff") format("woff");
+  src: url("fonts/akrobat-extralight-webfont.woff2") format("woff2"), url("fonts/akrobat-extralight-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: 'akrobatsemibold';
-  src: url("akrobat-semibold-webfont.woff2") format("woff2"), url("akrobat-semibold-webfont.woff") format("woff");
+  src: url("fonts/akrobat-semibold-webfont.woff2") format("woff2"), url("fonts/akrobat-semibold-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal; }
 
 @font-face {
   font-family: 'akrobatthin';
-  src: url("akrobat-thin-webfont.woff2") format("woff2"), url("akrobat-thin-webfont.woff") format("woff");
+  src: url("fonts/akrobat-thin-webfont.woff2") format("woff2"), url("fonts/akrobat-thin-webfont.woff") format("woff");
   font-weight: normal;
   font-style: normal; }
 
 .elementor-column-gap-default > .elementor-row > .elementor-column.full_width div {
   padding: 0; }
+
+.elementor-text-editor p {
+  font-family: "akrobatsemibold", Arial, Helvetica, Verdana, sans-serif;
+  line-height: 1.5em;
+  font-size: 1.15em;
+  padding: 5px 0 15px 0;
+  letter-spacing: 0.015em; }
+
+.elementor-text-editor .justify p {
+  text-align: justify; }
+
+.elementor-text-editor .center p {
+  text-align: center; }
+
+.first-section {
+  max-height: 800px; }
 
 .geared-blk h1, .geared-blk h2, .geared-blk h3, .geared-blk h4, .geared-blk h5, .geared-blk h6, .geared-blk p, .geared-blk a {
   font-family: "geared_slabextrabold", Arial, Helvetica, Verdana, sans-serif !important; }

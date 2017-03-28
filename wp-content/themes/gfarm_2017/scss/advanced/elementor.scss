@@ -4,6 +4,32 @@
     }
 }
 
+.elementor-text-editor {
+    p {
+        font-family: $akrobat-med;
+        line-height: 1.5em;
+        font-size: 1.15em;
+        padding: 5px 0 15px 0;
+        letter-spacing: 0.015em;
+    }
+
+    .justify {
+        p {
+            text-align: justify;
+        }
+    }
+
+    .center {
+        p {
+            text-align: center;
+        }
+    }
+}
+
+.first-section {
+    max-height: 800px;
+}
+
 .geared-blk {
     h1, h2, h3, h4, h5, h6, p, a {
         font-family: $geared-blk !important;

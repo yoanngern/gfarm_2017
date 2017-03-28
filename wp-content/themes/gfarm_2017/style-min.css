@@ -83,6 +83,22 @@ article, aside, footer, header, hgroup, nav, section, figure, figcaption {
 .elementor-column-gap-default > .elementor-row > .elementor-column.full_width div {
   padding: 0; }
 
+.elementor-text-editor p {
+  font-family: "akrobatsemibold", Arial, Helvetica, Verdana, sans-serif;
+  line-height: 1.5em;
+  font-size: 1.15em;
+  padding: 5px 0 15px 0;
+  letter-spacing: 0.015em; }
+
+.elementor-text-editor .justify p {
+  text-align: justify; }
+
+.elementor-text-editor .center p {
+  text-align: center; }
+
+.first-section {
+  max-height: 800px; }
+
 .geared-blk h1, .geared-blk h2, .geared-blk h3, .geared-blk h4, .geared-blk h5, .geared-blk h6, .geared-blk p, .geared-blk a {
   font-family: "geared_slabextrabold", Arial, Helvetica, Verdana, sans-serif !important; }
 
